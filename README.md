@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - I'm currently a freshman at Columbia University studying Computer Science
 - I'm interested in systems programming, programming languages, and cybersecurity
 - I'm passionate about Math, Physics, and Biology as well as Literature, Film, and Games (I like working collaboratively across disciplines a lot)
-- ⚡ Fun Fact: I like birds--particularly corvids a lot--from drawing them to learning more about them!
+- ⚡ Fun Fact: I like birds--particularly corvids--a lot, from drawing them to learning more about them!
 - 📫 Reach me at es4060@columbia.edu or sotoemily03@protonmail.com
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
