@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - she/her
 - I'm currently a freshman at Columbia University studying Math
 - I'm interested in systems programming, programming languages, and cybersecurity
-- I'm passionate about Math, Physics, and Biology as well as Literature, Film, and Games (I like working collaboratively across disciplines a lot)
+- I'm passionate about math, physics, and biology as well as literature, film, and games (I like working collaboratively across disciplines **a lot**)
 - ⚡ Fun Fact: I like birds--particularly corvids--from drawing them to learning more about them
 - 📫 Reach me at es4060@columbia.edu or sotoemily03@protonmail.com
 
