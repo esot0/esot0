@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - she/her
-- I'm currently a freshman at Columbia University studying Computer Science
+- I'm currently a freshman at Columbia University studying Math
 - I'm interested in systems programming, programming languages, and cybersecurity
 - I'm passionate about Math, Physics, and Biology as well as Literature, Film, and Games (I like working collaboratively across disciplines a lot)
 - ⚡ Fun Fact: I like birds--particularly corvids--from drawing them to learning more about them
