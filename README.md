@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - she/her
-- I'm currently a sophomore at Columbia University studying Math
-- I'm interested in systems programming, programming languages, and cybersecurity
-- I'm passionate about math, physics, and biology as well as literature, film, and games (I like working collaboratively across disciplines **a lot**)
-- ⚡ Fun Fact: I like birds--particularly corvids--from drawing them to learning more about them
+- I'm currently a Junior at Columbia University studying Computer Science and Math
+- I'm interested in high-performance systems programming, programming languages, and cybersecurity
+- I'm passionate about literature, film, and games (I like working collaboratively across disciplines **a lot**)
 - 📫 Reach me at es4060@columbia.edu or sotoemily03@protonmail.com
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
